@@ -1,2 +1,2 @@
 # RegresionLineal-Iris
-##By Edwin Antonio Marin Manzanero
+By Edwin Antonio Marin Manzanero
