@@ -14,3 +14,13 @@ By Edwin Antonio Marin Manzanero
 
 ### Metrics
 ![alt text](https://github.com/EdwinMarin01/RegresionLineal-Iris/blob/d869b5988602dfac88f47d80c85cc37d0f0d4f9a/AzureModel/Metrics.png)
+
+## Mongo DB -  log de commits
+La conexion se encuentra al final
+https://colab.research.google.com/drive/1tVGtNZnVR9ZX5-uDFYn1sDjtzb7HefUV?authuser=1
+
+## Mongo DB - map reduce
+
+
+## Modelos de regresión lineal con streamlit - Iris 
+https://edwinmarin01-regresionlineal-iris-main-ns5dxb.streamlit.app/
