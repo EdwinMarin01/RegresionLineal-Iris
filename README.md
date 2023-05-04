@@ -35,7 +35,7 @@ Paso 4
 Paso 5
 ![alt text](https://github.com/EdwinMarin01/RegresionLineal-Iris/blob/3a5fab8890e0b0c798a20a9479a41fb647ef9762/MapReduce/Paso5.png)
 
-Paso 6
+Resultado
 ![alt text](https://github.com/EdwinMarin01/RegresionLineal-Iris/blob/3a5fab8890e0b0c798a20a9479a41fb647ef9762/MapReduce/Paso6.png)
 
 
